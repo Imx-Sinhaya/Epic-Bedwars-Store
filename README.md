@@ -16,7 +16,6 @@
             <td>VIP+</td>
             <td>Rs. 500</td>
         </tr>
-    
         <tr>
             <td>MVP</td>
             <td>Rs. 700</td>
