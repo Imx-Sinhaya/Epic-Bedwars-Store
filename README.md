@@ -10,27 +10,24 @@
         </tr>
         <tr>
             <td>VIP</td>
-            <td>Rs. 200</td>
-        </tr>
-        <tr>
-            <td>VIP+</td>
             <td>Rs. 300</td>
         </tr>
         <tr>
-            <td>VIP++</td>
-            <td>Rs. 400</td>
+            <td>VIP+</td>
+            <td>Rs. 500</td>
         </tr>
+    
         <tr>
             <td>MVP</td>
-            <td>Rs. 500</td>
+            <td>Rs. 700</td>
         </tr>
         <tr>
             <td>MVP+</td>
-            <td>Rs. 600</td>
+            <td>Rs. 900</td>
         </tr>
         <tr>
             <td>MVP++</td>
-            <td>Rs. 700</td>
+            <td>Rs. 1200</td>
         </tr>
     </table>
     Play Now :- play.epicbedwars.xyz
