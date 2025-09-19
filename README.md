@@ -34,7 +34,7 @@
     </table>
     <div class="container">
             <div class="footer-copyright">
-                <span class="copyright-txt"><i class="fa-solid fa-copyright"></i> 2025 <span class="site">CwR Minecraft Network</span></span>
+                <span class="copyright-txt"><i class="fa-solid fa-copyright"></i> 2025 <span class="site">Epic Bedwars Minecraft Network</span></span>
                                 <div class="icon-box">
                                         <a class="icon" href="#" onclick="return false;" data-toggle="tooltip" id="page_load_tooltip" title="" data-original-title="Page loaded in 3.128s"><i class="fa-solid fa-gauge-high"></i></a>
                                                                                 <a class="icon" href="https://web.facebook.com/cwrminecraft" target="_blank"><i id="social-fb" class="fa-brands fa-facebook"></i></a>
@@ -42,6 +42,6 @@
                                                         </div>
                             </div>
         </div>
-<span class="copyright-txt"><i class="fa-solid fa-copyright"></i> 2025 <span class="site">CwR Minecraft Network</span></span>
+
 </body>
 </html>
