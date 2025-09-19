@@ -1,6 +1,10 @@
 # Epic-Bedwars-Store
 <hlml>
 <body>
+    body {
+            background-color: black; /* Background color black karanawa */
+            color: white; /* Text eka pennanna white karanna */
+        }
 <div class="title">🎖️ Epic Bedwars Server Rank Prices 🎖️</div>
     <table class="price-table">
         <tr>
