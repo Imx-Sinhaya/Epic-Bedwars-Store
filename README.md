@@ -35,13 +35,12 @@
   <!-- Footer Section -->
 <footer style="background-color:#111; color:#fff; padding:20px 0; text-align:center; font-family:Arial, sans-serif;">
     <div style="margin-bottom:10px;">
-        © 2025 CwR Minecraft Network
+        © 2025 Epic Bedwars Minecraft Network
     </div>
     <div>
         <!-- Social Icons -->
-        <a href="https://example.com" target="_blank" style="margin:0 10px; color:#fff; text-decoration:none; font-size:18px;">🌐</a>
-        <a href="https://facebook.com" target="_blank" style="margin:0 10px; color:#fff; text-decoration:none; font-size:18px;">👍</a>
-        <a href="https://youtube.com" target="_blank" style="margin:0 10px; color:#fff; text-decoration:none; font-size:18px;">▶️</a>
+        <a href="https://discord.com/invite/JQjnZRU4" target="_blank" style="margin:0 10px; color:#fff; text-decoration:none; font-size:18px;">🌐</a>
+        <a href="https://www.youtube.com/@ImxSinhayaOfficial" target="_blank" style="margin:0 10px; color:#fff; text-decoration:none; font-size:18px;">▶️</a>
     </div>
 </footer>
 
