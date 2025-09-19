@@ -32,6 +32,7 @@
             <td>Rs. 700</td>
         </tr>
     </table>
-</div>
+    
+<span class="copyright-txt"><i class="fa-solid fa-copyright"></i> 2025 <span class="site">CwR Minecraft Network</span></span>
 </body>
 </html>
