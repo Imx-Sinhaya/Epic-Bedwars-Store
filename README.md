@@ -3,7 +3,7 @@
 
 <hlml>
     <body>
-    <div class="title">🎖️ Epic Bedwars Server Rank Prices 🎖️</div>
+    <div class="title">     🎖️ Epic Bedwars Server Rank Prices 🎖️</div>
     <table class="price-table">
         <tr>
             <th>Rank</th>
