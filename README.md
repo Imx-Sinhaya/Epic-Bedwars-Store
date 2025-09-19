@@ -1,10 +1,7 @@
 # Epic-Bedwars-Store
 <hlml>
 <body>
-    body {
-            background-color: black; /* Background color black karanawa */
-            color: white; /* Text eka pennanna white karanna */
-        }
+
 <div class="title">🎖️ Epic Bedwars Server Rank Prices 🎖️</div>
     <table class="price-table">
         <tr>
@@ -36,6 +33,7 @@
             <td>Rs. 700</td>
         </tr>
     </table>
+    Play Now play.epicbedwars.xyz
   <!-- Footer Section -->
 <footer style="background-color:#111; color:#fff; padding:20px 0; text-align:center; font-family:Arial, sans-serif;">
     <div style="margin-bottom:10px;">
