@@ -33,7 +33,7 @@
             <td>Rs. 700</td>
         </tr>
     </table>
-    Play Now play.epicbedwars.xyz
+    Play Now :- play.epicbedwars.xyz
   <!-- Footer Section -->
 <footer style="background-color:#111; color:#fff; padding:20px 0; text-align:center; font-family:Arial, sans-serif;">
     <div style="margin-bottom:10px;">
