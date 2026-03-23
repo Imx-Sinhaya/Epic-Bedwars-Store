@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Wesak Thorana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body cz-shortcut-listen="true">
+    <div class="thorana-main-container">
+        <audio id="audio" onload="playAudio()" src="./nalapana.mp3" onended="playAgain()" hidden></audio>
+        <div class="leftGrid">
+            <button onclick="playAudio()" id="play">Play</button>
+            <h4>නලපාන ජාතකය</h4>
+        </div>
+        <div class="wrapper">
+            <div class="thorana">
+                <div class="thorana-container thorana-top">
+                    <div class="thorana-images" id="thorana-img1">
+                        <p>1</p>
+                        <div id="thorana-img-light11"></div>
+                        <div id="thorana-img-light12"></div>
+                    </div>
+                    <div class="thorana-images" id="thorana-img2">
+                        <p>2</p>
+                        <div id="thorana-img-light21"></div>
+                        <div id="thorana-img-light22"></div>
+                    </div>
+                    <div class="thorana-images" id="thorana-img3">
+                        <p>3</p>
+                        <div id="thorana-img-light31"></div>
+                        <div id="thorana-img-light32"></div>
+                    </div>
+                </div>
+                <div class="thorana-container thorana-middle">
+                    <div class="thorana-images" id="thorana-img4">
+                        <p>4</p>
+                        <div id="thorana-img-light41"></div>
+                        <div id="thorana-img-light42"></div>
+                    </div>
+                    <div class="container">
+                        <div id="thorana0"></div>
+                        <div id="thorana1"></div>
+                        <div id="thorana2"></div>
+                        <div id="thorana3"></div>
+                        <div id="thorana4"></div>
+                        <img class="buddah" src="./buddah.png" alt="">
+                    </div>
+                    <div class="thorana-images" id="thorana-img5">
+                        <p>5</p>
+                        <div id="thorana-img-light51"></div>
+                        <div id="thorana-img-light52"></div>
+                    </div>
+                </div>
+                <div class="thorana-container thorana-bottom">
+                    <div class="thorana-images" id="thorana-img6">
+                        <p>6</p>
+                        <div id="thorana-img-light61"></div>
+                        <div id="thorana-img-light62"></div>
+                    </div>
+                    <div class="thorana-images" id="thorana-img7">
+                        <p>7</p>
+                        <div id="thorana-img-light71"></div>
+                        <div id="thorana-img-light72"></div>
+                    </div>
+                    <div class="thorana-images" id="thorana-img8">
+                        <p>8</p>
+                        <div id="thorana-img-light81"></div>
+                        <div id="thorana-img-light82"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-container">
+        <div id="card-img-light11"></div>
+        <div id="card-img-light12"></div>
+        <div id="card-img-light13"></div>
+        <div class="big-card">
+            <h1>සුභ වෙසක් මංගල්‍යයක් වේවා</h1>
+        <div id="card">
+            <div id="front">
+                <img src="./front.jpg">
+                <h2></h2>
+            </div>
+            <div id="back">
+                <img src="./back.jpg">
+                <h2></h2>
+            </div>
+        </div>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+
+</html>
